@@ -1,0 +1,12 @@
+[
+    {
+        "host" : "",
+        "user" : "",
+        "passwd" : "",
+        "db" : "",
+        "placesAPIKey" : "",
+        "tags" : "",
+        "inputtype" : "textquery",
+        "csvWithInputData" : ""
+    }
+]
